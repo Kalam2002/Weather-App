@@ -20,7 +20,7 @@ It fetches data from a weather API and displays temperature, humidity, wind spee
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](https://ibb.co/hJkzQVtr)
+![Weather App Screenshot](https://github.com/user-attachments/assets/c2281537-c0e5-4614-a27e-c699b087b82f)
 
 
 ## 🌍 Live Demo
